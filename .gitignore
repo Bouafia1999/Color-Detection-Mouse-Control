@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.ipch
+*.pdb
+*.obj
+*.exe
+*.suo
+*.user
+*.tlog
+*.lastbuildstate
+*.log
+
+# Ignorer les fichiers de Visual Studio
+x64/Debug/
+*.pdb
+*.ilk
+*.log
+*.obj
+*.exe
+*.lastbuildstate
+*.tlog
